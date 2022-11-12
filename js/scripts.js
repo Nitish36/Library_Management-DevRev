@@ -28,13 +28,3 @@ $(document).ready(function () {
     }
     });  
 });
-
-$(document).ready(function(){
-    $("button").click(function(){
-        
-      // Select all the rows in the table
-      // and get the count of the selected elements
-      var rowCount = $("#filt tr").length;
-      alert(rowCount); 
-    });
-  });

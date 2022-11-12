@@ -18,6 +18,14 @@ body
     background-color: rgb(238,240,244);
     padding: 20px;
 }
+.outer p
+{
+    position: absolute;
+    right: 90px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 10px;
+}
 .middle
 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
